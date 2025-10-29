@@ -1,2 +1,3 @@
-# Here I document my learning and practice development journey
-Author - Nilesh Mohan
+Author - Nilesh Mohan Singh
+<br>
+Here I document my learning and practicing development journey.
